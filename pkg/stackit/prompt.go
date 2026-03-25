@@ -23,7 +23,7 @@ func (p *Prompt) Prompt() error {
 		fmt.Printf("waiting %v before continuing", forceSleep)
 		time.Sleep(forceSleep)
 	} else {
-		fmt.Printf("Do you really want to nuke the StackIT project with the ID %d.\n", p.ProjectID)
+		fmt.Printf("Do you really want to nuke the StackIT project with the ID %q.\n", p.ProjectID)
 		fmt.Printf("Do you want to continue? Enter project id %q to continue.\n", p.ProjectID)
 		if err := utils.Prompt(p.ProjectID); err != nil {
 			return err
