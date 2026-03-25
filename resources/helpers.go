@@ -2,22 +2,6 @@ package resources
 
 import "time"
 
-func stringPtr[T ~string](v T) *string {
-	s := string(v)
-	if s == "" {
-		return nil
-	}
-	return &s
-}
-
-func int64Ptr[T ~int64 | ~int32 | ~int](v T) *int64 {
-	n := int64(v)
-	if n == 0 {
-		return nil
-	}
-	return &n
-}
-
 func parseTimePtr(v interface{}) *time.Time {
 	switch t := v.(type) {
 	case time.Time:

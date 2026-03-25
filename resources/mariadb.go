@@ -50,7 +50,6 @@ func (l *MariadbLister) List(ctx context.Context, o interface{}) ([]resource.Res
 type Mariadb struct {
 	client    *stackitclient.Client
 	projectID string
-	region    string
 	ID        *string
 	Name      *string
 	Status    *string `description:"Current db status"`

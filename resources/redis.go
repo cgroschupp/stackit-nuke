@@ -51,7 +51,6 @@ func (l *RedisLister) List(ctx context.Context, o interface{}) ([]resource.Resou
 type Redis struct {
 	client    *stackitclient.Client
 	projectID string
-	region    string
 	ID        *string
 	Name      *string
 	Status    *string `description:"Current redis status"`
