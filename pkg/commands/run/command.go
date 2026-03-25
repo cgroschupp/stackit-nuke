@@ -18,7 +18,6 @@ import (
 	"github.com/cgroschupp/stackit-nuke/pkg/common"
 	"github.com/cgroschupp/stackit-nuke/pkg/config"
 	"github.com/cgroschupp/stackit-nuke/pkg/nuke"
-	"github.com/cgroschupp/stackit-nuke/pkg/stackit"
 	stackitclient "github.com/cgroschupp/stackit-nuke/pkg/stackit"
 )
 
@@ -79,7 +78,7 @@ func execute(ctx context.Context, c *cli.Command) error {
 	n.SetLogger(logrus.WithField("component", "nuke"))
 	n.RegisterVersion(fmt.Sprintf("> %s", common.AppVersion))
 
-	p := &stackit.Prompt{Parameters: params, ProjectID: projectID}
+	p := &stackitclient.Prompt{Parameters: params, ProjectID: projectID}
 	n.RegisterPrompt(p.Prompt)
 	resourceTypes := types.ResolveResourceTypes(
 		registry.GetNamesForScope(nuke.Account),
