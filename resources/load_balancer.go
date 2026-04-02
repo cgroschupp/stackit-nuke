@@ -16,10 +16,11 @@ const LoadBalancerResource = "LoadBalancer"
 
 func init() {
 	registry.Register(&registry.Registration{
-		Name:     LoadBalancerResource,
-		Scope:    nuke.Account,
-		Resource: &LoadBalancer{},
-		Lister:   &LoadBalancerLister{},
+		Name:      LoadBalancerResource,
+		Scope:     nuke.Account,
+		Resource:  &LoadBalancer{},
+		Lister:    &LoadBalancerLister{},
+		DependsOn: []string{ServerResource},
 	})
 }
 

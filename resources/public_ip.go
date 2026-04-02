@@ -40,6 +40,7 @@ func (l *PublicIPLister) List(ctx context.Context, o interface{}) ([]resource.Re
 			projectID: opts.ProjectID,
 			ID:        ip.Id,
 			Address:   ip.Ip,
+			region:    opts.Region,
 		})
 	}
 

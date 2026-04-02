@@ -20,7 +20,7 @@ func init() {
 		Scope:     nuke.Account,
 		Resource:  &Server{},
 		Lister:    &ServerLister{},
-		DependsOn: []string{VolumeResource},
+		DependsOn: []string{},
 	})
 }
 
