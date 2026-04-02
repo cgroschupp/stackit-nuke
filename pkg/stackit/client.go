@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	"github.com/stackitcloud/stackit-sdk-go/core/config"
+	dns "github.com/stackitcloud/stackit-sdk-go/services/dns/v1api"
 	iaas "github.com/stackitcloud/stackit-sdk-go/services/iaas/v2api"
 	loadbalancer "github.com/stackitcloud/stackit-sdk-go/services/loadbalancer/v2api"
 	mariadb "github.com/stackitcloud/stackit-sdk-go/services/mariadb/v1api"
@@ -21,6 +22,7 @@ type Client struct {
 	Postgres      *postgres.APIClient
 	Mariadb       *mariadb.APIClient
 	ObjectStorage *objectstorage.APIClient
+	Dns           *dns.APIClient
 }
 
 func NewClient(region string) (*Client, error) {
@@ -29,6 +31,10 @@ func NewClient(region string) (*Client, error) {
 		return nil, err
 	}
 
+	dnsClient, err := dns.NewAPIClient()
+	if err != nil {
+		return nil, err
+	}
 	lbClient, err := loadbalancer.NewAPIClient()
 	if err != nil {
 		return nil, err
@@ -61,5 +67,6 @@ func NewClient(region string) (*Client, error) {
 		Postgres:      postgresClient,
 		Mariadb:       mariadbClient,
 		ObjectStorage: objectstorageClient,
+		Dns:           dnsClient,
 	}, nil
 }
