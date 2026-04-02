@@ -15,10 +15,11 @@ const ZoneResource = "Zone"
 
 func init() {
 	registry.Register(&registry.Registration{
-		Name:     ZoneResource,
-		Scope:    nuke.Account,
-		Resource: &Zone{},
-		Lister:   &ZoneListner{},
+		Name:      ZoneResource,
+		Scope:     nuke.Account,
+		Resource:  &Zone{},
+		Lister:    &ZoneListner{},
+		DependsOn: []string{RecordSetResource},
 	})
 }
 
@@ -27,7 +28,7 @@ type ZoneListner struct{}
 func (l *ZoneListner) List(ctx context.Context, o interface{}) ([]resource.Resource, error) {
 	opts := o.(*nuke.ListerOpts)
 	resources := make([]resource.Resource, 0)
-	resp, err := opts.Client.Dns.DefaultAPI.ListZones(ctx, opts.ProjectID).Execute()
+	resp, err := opts.Client.Dns.DefaultAPI.ListZones(ctx, opts.ProjectID).StateNeq("DELETE_SUCCEEDED").Execute()
 	if err != nil {
 		return resources, err
 	}
