@@ -53,8 +53,6 @@ type Image struct {
 	client    *stackitclient.Client
 	ID        *string
 	Name      *string
-	projectID string
-	region    string
 	Created   *time.Time `description:"Creation timestamp"`
 	Labels    map[string]interface{}
 }
