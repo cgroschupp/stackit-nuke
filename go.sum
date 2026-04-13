@@ -34,6 +34,8 @@ github.com/stackitcloud/stackit-sdk-go/services/iaas v1.7.0 h1:WyOC7tEazOPF9PwlE
 github.com/stackitcloud/stackit-sdk-go/services/iaas v1.7.0/go.mod h1:78hDXs5sEokK2sAaBSn79kodytszmDYEAuMS56kPHIw=
 github.com/stackitcloud/stackit-sdk-go/services/loadbalancer v1.10.1 h1:GWJ8FqI20Z4BYYprqi7CFN6imb6IF2H262a2H2VlB4A=
 github.com/stackitcloud/stackit-sdk-go/services/loadbalancer v1.10.1/go.mod h1:hjXxEkJ247sa9IxoACRK8oUvly7Hux2qnIw7rj4c6xs=
+github.com/stackitcloud/stackit-sdk-go/services/loadbalancer v1.12.0 h1:NV8gJ75nPvnJvxXVAp3zSoer04jq1LLxEhGZdH68jQU=
+github.com/stackitcloud/stackit-sdk-go/services/loadbalancer v1.12.0/go.mod h1:vyTjtzGSh91dpOiZkwCZiIz054E554Oi4coPXYlec8s=
 github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.27.1 h1:YK2HxO+Nffe5BTt8jtWUyyES3sarjIH1GWlrqRaa4Ec=
 github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.27.1/go.mod h1:/8x9gLPt1ZqcAtyVP3dwqKA9FtdHMn5pcy1TSS5iSSg=
 github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.7.0 h1:UxnbsKm6PQV8Gudw/EhySaEh9q1xSaTG8mzJz1EvhnE=
