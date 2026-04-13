@@ -54,6 +54,8 @@ github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.0 h1:C01KVthGmxZ0DS5
 github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.0/go.mod h1:HEMROwiAjqmLKYJ+sx9jpci2mdq9qs4iY3aatz1WKr4=
 github.com/stackitcloud/stackit-sdk-go/services/ske v1.10.0 h1:IzpPH3y0HmB85aHfExg6tzWQgrrecB7aZFv/dv/uACU=
 github.com/stackitcloud/stackit-sdk-go/services/ske v1.10.0/go.mod h1:KhVYCR58wETqdI7Quwhe3OR3BhB2T/b7DzaMsfDnr8g=
+github.com/stackitcloud/stackit-sdk-go/services/ske v1.12.0 h1:G6iUFDlrwCkCkwSV3eLNsFpVD24h6qV7D4pm0rqftnM=
+github.com/stackitcloud/stackit-sdk-go/services/ske v1.12.0/go.mod h1:cSRF2ARIB6dKmvZ12Z5h1usKQligeZJ1JOiJk6Ds3wE=
 github.com/stevenle/topsort v0.2.0 h1:LLWgtp34HPX6/RBDRS0kElVxGOTzGBLI1lSAa5Lb46k=
 github.com/stevenle/topsort v0.2.0/go.mod h1:ck2WG2/ZrOr6dLApQ/5Xrqy5wv3T0qhKYWE7r9tkibc=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
