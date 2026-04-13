@@ -14,7 +14,7 @@ require (
 	github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.27.1
 	github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.7.0
 	github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.7.0
-	github.com/stackitcloud/stackit-sdk-go/services/redis v0.27.1
+	github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.0
 	github.com/stackitcloud/stackit-sdk-go/services/ske v1.10.0
 	github.com/urfave/cli/v3 v3.8.0
 )
