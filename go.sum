@@ -60,6 +60,8 @@ github.com/stackitcloud/stackit-sdk-go/services/redis v0.27.1 h1:N0fBCzJftfCO0hH
 github.com/stackitcloud/stackit-sdk-go/services/redis v0.27.1/go.mod h1:lQmEEwcR6f7GYSveWHI8cGNgZYKbusooJwa8BD4E2tU=
 github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.0 h1:C01KVthGmxZ0DS5JVVHqF/JorWO4mRacvtIq1w5vhVw=
 github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.0/go.mod h1:HEMROwiAjqmLKYJ+sx9jpci2mdq9qs4iY3aatz1WKr4=
+github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.1 h1:6loJq37rLpU84HY/rzmpZrBGPz2vKqhly8mUC8NcAu0=
+github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.1/go.mod h1:tAZ7VeO1wZO0Fp6gO/j96LLwgN0QbOD5qlWp+Ah3Yps=
 github.com/stackitcloud/stackit-sdk-go/services/ske v1.10.0 h1:IzpPH3y0HmB85aHfExg6tzWQgrrecB7aZFv/dv/uACU=
 github.com/stackitcloud/stackit-sdk-go/services/ske v1.10.0/go.mod h1:KhVYCR58wETqdI7Quwhe3OR3BhB2T/b7DzaMsfDnr8g=
 github.com/stackitcloud/stackit-sdk-go/services/ske v1.12.0 h1:G6iUFDlrwCkCkwSV3eLNsFpVD24h6qV7D4pm0rqftnM=
