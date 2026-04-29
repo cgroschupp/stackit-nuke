@@ -42,6 +42,8 @@ github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.8.0 h1:oWTviJKdl
 github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.8.0/go.mod h1:yzlakB+f8ur4yAHR6lyCABO+HcEtZG3G2Faj6m5/uW8=
 github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.1 h1:6loJq37rLpU84HY/rzmpZrBGPz2vKqhly8mUC8NcAu0=
 github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.1/go.mod h1:tAZ7VeO1wZO0Fp6gO/j96LLwgN0QbOD5qlWp+Ah3Yps=
+github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.2 h1:9s8yUxXEORj/ChLLf5vGdjmMC3PhDlYRIVd4v23Uavg=
+github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.2/go.mod h1:yjej6QfYoYdRIyKXlmbVz8fZYxbuUdl+QBkvLDPgA4k=
 github.com/stackitcloud/stackit-sdk-go/services/ske v1.14.0 h1:Zy3yxmHzW+ydu1naeESMh8psXhUglkOHZ+/F3SJMwX8=
 github.com/stackitcloud/stackit-sdk-go/services/ske v1.14.0/go.mod h1:TbqmZhLMofmfl+HhVl6oHYcI3zvXTm1vRjN3A/fOkM4=
 github.com/stevenle/topsort v0.2.0 h1:LLWgtp34HPX6/RBDRS0kElVxGOTzGBLI1lSAa5Lb46k=
