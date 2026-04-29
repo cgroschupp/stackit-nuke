@@ -62,6 +62,8 @@ github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.7.0 h1:hh4ms3YfR
 github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.7.0/go.mod h1:9lj+QIi6kcOv/QXm0n9JQzlftN5H5zK2O+Zsy/YmMsw=
 github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.7.1 h1:BWa9O8iRU1l8izGIoH9/+GEF20uu8WDWSesqjdJ3+lg=
 github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.7.1/go.mod h1:xBWn0vpyyh+IA4muynufqIKmc1fJPPp+uY/iXwa5epE=
+github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.8.0 h1:oWTviJKdlUxaaARJghTjOqBbarIK+7+nH3Kc3Wxn4rQ=
+github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.8.0/go.mod h1:yzlakB+f8ur4yAHR6lyCABO+HcEtZG3G2Faj6m5/uW8=
 github.com/stackitcloud/stackit-sdk-go/services/redis v0.27.1 h1:N0fBCzJftfCO0hHMJgX/lEQaBIST94ewrQ5rJT1loaQ=
 github.com/stackitcloud/stackit-sdk-go/services/redis v0.27.1/go.mod h1:lQmEEwcR6f7GYSveWHI8cGNgZYKbusooJwa8BD4E2tU=
 github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.0 h1:C01KVthGmxZ0DS5JVVHqF/JorWO4mRacvtIq1w5vhVw=
