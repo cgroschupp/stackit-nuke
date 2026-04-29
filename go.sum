@@ -40,6 +40,8 @@ github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.28.2 h1:V1NyFrmtUlikj
 github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.28.2/go.mod h1:joa89Y1dyn0j22FstRcIKfW2ada3FDxNfttxSvq27uY=
 github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.8.1 h1:68pFYpbzSFq800N6nUxNIpnXYYXxjc/35pH9Mf36CF4=
 github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.8.1/go.mod h1:2QQ8VPGC5KfqtfD2VaQAnBhpk3Y8VgVE7UlTDeZEZyc=
+github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.9.0 h1:T+ll3lS0Kn18d8hTOrVAMKcQrXiab+Cuj0cTnAYHmj0=
+github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.9.0/go.mod h1:QsPtoqAYvumyPU6ToX/5j1PbudN+VSTuvh6mp154ecM=
 github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.8.0 h1:oWTviJKdlUxaaARJghTjOqBbarIK+7+nH3Kc3Wxn4rQ=
 github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.8.0/go.mod h1:yzlakB+f8ur4yAHR6lyCABO+HcEtZG3G2Faj6m5/uW8=
 github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.1 h1:6loJq37rLpU84HY/rzmpZrBGPz2vKqhly8mUC8NcAu0=
