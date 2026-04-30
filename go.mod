@@ -13,7 +13,7 @@ require (
 	github.com/stackitcloud/stackit-sdk-go/services/iaas v1.11.0
 	github.com/stackitcloud/stackit-sdk-go/services/loadbalancer v1.12.2
 	github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.28.2
-	github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.8.1
+	github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.9.0
 	github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.8.0
 	github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.2
 	github.com/stackitcloud/stackit-sdk-go/services/ske v1.14.0
