@@ -42,6 +42,8 @@ github.com/stackitcloud/stackit-sdk-go/services/loadbalancer v1.13.0 h1:UuLNwFHj
 github.com/stackitcloud/stackit-sdk-go/services/loadbalancer v1.13.0/go.mod h1:+Ld3dn648I+YKcBV3fEkYpDSr3fel421+LurJGywSBs=
 github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.28.2 h1:V1NyFrmtUlikjS5Zl1ml14++G7lvlEBTfF+v48cchwg=
 github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.28.2/go.mod h1:joa89Y1dyn0j22FstRcIKfW2ada3FDxNfttxSvq27uY=
+github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.29.0 h1:dLXdQRTVSkb8ttCgimbbW1fvcmMFa2BmRgyxYD2OpFE=
+github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.29.0/go.mod h1:joa89Y1dyn0j22FstRcIKfW2ada3FDxNfttxSvq27uY=
 github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.8.1 h1:68pFYpbzSFq800N6nUxNIpnXYYXxjc/35pH9Mf36CF4=
 github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.8.1/go.mod h1:2QQ8VPGC5KfqtfD2VaQAnBhpk3Y8VgVE7UlTDeZEZyc=
 github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.9.0 h1:T+ll3lS0Kn18d8hTOrVAMKcQrXiab+Cuj0cTnAYHmj0=
