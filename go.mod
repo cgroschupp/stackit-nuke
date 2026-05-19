@@ -12,7 +12,7 @@ require (
 	github.com/stackitcloud/stackit-sdk-go/services/dns v0.20.2
 	github.com/stackitcloud/stackit-sdk-go/services/iaas v1.11.1
 	github.com/stackitcloud/stackit-sdk-go/services/loadbalancer v1.13.0
-	github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.28.2
+	github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.29.0
 	github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.9.0
 	github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.8.0
 	github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.2
