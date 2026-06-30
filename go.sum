@@ -74,6 +74,8 @@ github.com/stackitcloud/stackit-sdk-go/services/ske v1.17.0 h1:fQFPbm5cNsTxFy86E
 github.com/stackitcloud/stackit-sdk-go/services/ske v1.17.0/go.mod h1:TbqmZhLMofmfl+HhVl6oHYcI3zvXTm1vRjN3A/fOkM4=
 github.com/stackitcloud/stackit-sdk-go/services/ske v1.18.0 h1:6Umom7V12bVa7D3dnMJAKj/GWg7wqR9FpqmZ8TjsO1Q=
 github.com/stackitcloud/stackit-sdk-go/services/ske v1.18.0/go.mod h1:TbqmZhLMofmfl+HhVl6oHYcI3zvXTm1vRjN3A/fOkM4=
+github.com/stackitcloud/stackit-sdk-go/services/ske v1.19.0 h1:/SNc1zedje1HNhMCWf+IRx2eKpFXeGdmCRCIZ4PCrhs=
+github.com/stackitcloud/stackit-sdk-go/services/ske v1.19.0/go.mod h1:TbqmZhLMofmfl+HhVl6oHYcI3zvXTm1vRjN3A/fOkM4=
 github.com/stevenle/topsort v0.2.0 h1:LLWgtp34HPX6/RBDRS0kElVxGOTzGBLI1lSAa5Lb46k=
 github.com/stevenle/topsort v0.2.0/go.mod h1:ck2WG2/ZrOr6dLApQ/5Xrqy5wv3T0qhKYWE7r9tkibc=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
