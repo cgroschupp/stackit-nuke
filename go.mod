@@ -10,7 +10,7 @@ require (
 	github.com/sirupsen/logrus v1.9.4
 	github.com/stackitcloud/stackit-sdk-go/core v0.26.0
 	github.com/stackitcloud/stackit-sdk-go/services/dns v0.20.2
-	github.com/stackitcloud/stackit-sdk-go/services/iaas v1.12.2
+	github.com/stackitcloud/stackit-sdk-go/services/iaas v1.13.0
 	github.com/stackitcloud/stackit-sdk-go/services/loadbalancer v1.14.0
 	github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.29.0
 	github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.9.0
