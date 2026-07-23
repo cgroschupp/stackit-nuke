@@ -14,7 +14,7 @@ require (
 	github.com/stackitcloud/stackit-sdk-go/services/loadbalancer v1.15.0
 	github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.29.0
 	github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.9.0
-	github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.11.0
+	github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.12.0
 	github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.2
 	github.com/stackitcloud/stackit-sdk-go/services/ske v1.20.0
 	github.com/urfave/cli/v3 v3.10.1
