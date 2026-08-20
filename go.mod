@@ -2,7 +2,7 @@ module github.com/cgroschupp/stackit-nuke
 
 go 1.26.0
 
-toolchain go1.26.6
+toolchain go1.27.0
 
 require (
 	github.com/ekristen/libnuke v1.3.0
