@@ -9,7 +9,7 @@ require (
 	github.com/fatih/color v1.19.0
 	github.com/sirupsen/logrus v1.10.2
 	github.com/stackitcloud/stackit-sdk-go/core v0.27.0
-	github.com/stackitcloud/stackit-sdk-go/services/dns v0.20.2
+	github.com/stackitcloud/stackit-sdk-go/services/dns v0.23.0
 	github.com/stackitcloud/stackit-sdk-go/services/iaas v1.14.1
 	github.com/stackitcloud/stackit-sdk-go/services/loadbalancer v1.15.1
 	github.com/stackitcloud/stackit-sdk-go/services/mariadb v0.29.0
