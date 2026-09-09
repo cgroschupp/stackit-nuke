@@ -80,6 +80,8 @@ github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.9.0 h1:T+ll3lS0
 github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.9.0/go.mod h1:QsPtoqAYvumyPU6ToX/5j1PbudN+VSTuvh6mp154ecM=
 github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.9.1 h1:9n1BrPj6gAuKnyJ1OmsN+MEl2DBg9KJHgUfkijN84Rs=
 github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.9.1/go.mod h1:QsPtoqAYvumyPU6ToX/5j1PbudN+VSTuvh6mp154ecM=
+github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.9.2 h1:FvT1SDs4Q8MTNwKERqMUgvXAyYwv/MQTAGfZAxcDfQo=
+github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.9.2/go.mod h1:HNLjAqJrfBYfK/DT7Nrwh6LkArq6bn/ri+kgps3skjc=
 github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.8.0 h1:oWTviJKdlUxaaARJghTjOqBbarIK+7+nH3Kc3Wxn4rQ=
 github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.8.0/go.mod h1:yzlakB+f8ur4yAHR6lyCABO+HcEtZG3G2Faj6m5/uW8=
 github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.9.0 h1:a6BN3e8/dDgBiUSUGbvX1z+X/kgAWa6+3Yt2fnV7ro0=
