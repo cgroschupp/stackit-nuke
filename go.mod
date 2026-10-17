@@ -16,7 +16,7 @@ require (
 	github.com/stackitcloud/stackit-sdk-go/services/objectstorage v1.12.0
 	github.com/stackitcloud/stackit-sdk-go/services/postgresflex v1.16.0
 	github.com/stackitcloud/stackit-sdk-go/services/redis v0.28.2
-	github.com/stackitcloud/stackit-sdk-go/services/ske v1.21.2
+	github.com/stackitcloud/stackit-sdk-go/services/ske v1.22.0
 	github.com/urfave/cli/v3 v3.14.0
 )
 
